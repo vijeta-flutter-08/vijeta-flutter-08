@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-- 🧑‍💻 I’m currently working on **Sustainogram**, **ChitChat**, and **Blinkit UI Clone**
+- 🧑‍💻 I’m currently working on **datingApp**, **ChitChat**, and **Blinkit UI Clone**
 - 🌱 Exploring advanced **Firebase Auth**, **State Management**, and **animations**
 - 🔭 Passionate about **building scalable, cross-platform mobile apps**
 - 💬 Ask me about `Flutter`, `Firebase`, `Clean UI`, `MVVM`, and `REST APIs`
