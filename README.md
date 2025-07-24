@@ -39,8 +39,8 @@
 ### 🧩 Projects
 
 - 🌱 [Personal Profile App](https://github.com/vijeta-flutter-08/personal-profile)
+- 🛒 [Blinkit UI Clone](https://github.com/vijeta-flutter-08/Blinkit-Clone)
 
----
 
 ### 🌐 Let's Connect
 
