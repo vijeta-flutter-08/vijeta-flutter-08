@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently building **cross-platform apps using Flutter**
 
-- 🌱 I’m learning advanced **Flutter animations, Riverpod, and clean architecture**
+- 🌱 I’m learning advanced **Flutter animations, Getx, and clean architecture**
 
 - 👨‍💻 My projects are available at [github.com/vijeta-flutter-08](https://github.com/vijeta-flutter-08)
 
