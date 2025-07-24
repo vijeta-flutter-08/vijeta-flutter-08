@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **vijeta.mum.dbda@gmail.com**
 
-- 📄 Resume: [Click Here to View](#) <!-- add Google Drive or PDF link -->
+- 📄 Resume: [Click Here to View](https://drive.google.com/file/d/1LEqD-VBgARr6Tq62vXZghh8zeHdw8UCz/view?usp=drive_link) <!-- add Google Drive or PDF link -->
 
 ---
 
