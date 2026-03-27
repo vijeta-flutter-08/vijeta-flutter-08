@@ -124,11 +124,4 @@ Problem Solving | Team Collaboration | Communication | Adaptability | Time Manag
 
 ---
 
-### 📊 GitHub Stats
-
-![Vijeta's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijeta-flutter&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijeta-flutter&layout=compact&theme=radical)
-
----
-
 > _“Building secure fintech systems with clean architecture and scalable Flutter solutions.”_ 🚀
